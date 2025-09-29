@@ -1,0 +1,36 @@
+YOLOv8 Small Video Object Counting Report
+==================================================
+
+Video file: C:\Users\USER\Downloads\archive\traffic.mp4
+Processing date: 2025-09-25 14:01:01
+Model: YOLOv8 (confidence: 0.5)
+Processing time: 40.31 seconds
+Frames processed: 335
+
+Maximum Object Counts:
+-------------------------
+car: 6
+train: 1
+
+Frame-by-frame counts (last 20 frames):
+-----------------------------------
+Frame 316: {'car': 4}
+Frame 317: {'car': 4}
+Frame 318: {'car': 4}
+Frame 319: {'car': 4, 'train': 1}
+Frame 320: {'car': 3}
+Frame 321: {'car': 2}
+Frame 322: {'car': 3}
+Frame 323: {'car': 2}
+Frame 324: {'car': 2}
+Frame 325: {'car': 2}
+Frame 326: {'car': 2}
+Frame 327: {'car': 2}
+Frame 328: {'car': 2}
+Frame 329: {'car': 2}
+Frame 330: {'car': 2}
+Frame 331: {'car': 2}
+Frame 332: {'car': 2}
+Frame 333: {'car': 2}
+Frame 334: {'car': 2}
+Frame 335: {'car': 2}
